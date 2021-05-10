@@ -1,5 +1,6 @@
 - Name: Jeffrey C.Y. Yu
 - Contact: yujeffrey38@gmail.com
+- Contact: jeffrey.yu@mail.mcgill.ca
 
 <!---
 jeffreycyyu/jeffreycyyu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
